@@ -1,0 +1,12 @@
+{
+    "name": "bib/fanfox",
+    "description": "fanfox stealer",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "sinkaroid",
+            "email": "bibsindra@gmail.com"
+        }
+    ],
+    "require": {}
+}
